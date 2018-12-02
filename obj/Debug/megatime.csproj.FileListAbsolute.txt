@@ -1,0 +1,58 @@
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\bin\Debug\megatime.exe.config
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\bin\Debug\megatime.exe
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\bin\Debug\megatime.pdb
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\obj\Debug\megatime.Form1.resources
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\obj\Debug\megatime.Properties.Resources.resources
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\obj\Debug\megatime.csproj.GenerateResource.Cache
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\obj\Debug\megatime.exe
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\obj\Debug\megatime.pdb
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\obj\Debug\megatime.csprojResolveAssemblyReference.cache
+R:\pi\megatime\megatime\megatime\bin\Debug\megatime.exe.config
+R:\pi\megatime\megatime\megatime\obj\Debug\megatime.exe
+R:\pi\megatime\megatime\megatime\obj\Debug\megatime.pdb
+R:\pi\megatime\megatime\megatime\bin\Debug\megatime.exe
+R:\pi\megatime\megatime\megatime\bin\Debug\megatime.pdb
+R:\pi\megatime\megatime\megatime\obj\Debug\megatime.csprojResolveAssemblyReference.cache
+R:\pi\megatime\megatime\megatime\obj\Debug\megatime.Form1.resources
+R:\pi\megatime\megatime\megatime\obj\Debug\megatime.Properties.Resources.resources
+R:\pi\megatime\megatime\megatime\obj\Debug\megatime.csproj.GenerateResource.Cache
+C:\Users\15246903\Desktop\megatime\megatime\megatime\megatime\bin\Debug\megatime.exe.config
+C:\Users\15246903\Desktop\megatime\megatime\megatime\megatime\obj\Debug\megatime.exe
+C:\Users\15246903\Desktop\megatime\megatime\megatime\megatime\obj\Debug\megatime.pdb
+C:\Users\15246903\Desktop\megatime\megatime\megatime\megatime\bin\Debug\megatime.exe
+C:\Users\15246903\Desktop\megatime\megatime\megatime\megatime\bin\Debug\megatime.pdb
+C:\Users\15246903\Desktop\megatime\megatime\megatime\megatime\obj\Debug\megatime.csprojResolveAssemblyReference.cache
+C:\Users\15246903\Desktop\megatime\megatime\megatime\megatime\obj\Debug\megatime.Form1.resources
+C:\Users\15246903\Desktop\megatime\megatime\megatime\megatime\obj\Debug\megatime.Properties.Resources.resources
+C:\Users\15246903\Desktop\megatime\megatime\megatime\megatime\obj\Debug\megatime.csproj.GenerateResource.Cache
+C:\Users\marcelo\Google Drive\pessoal\puc\pi_pessoal\megatime\megatime\megatime\megatime\bin\Debug\megatime.exe.config
+C:\Users\marcelo\Google Drive\pessoal\puc\pi_pessoal\megatime\megatime\megatime\megatime\obj\Debug\megatime.exe
+C:\Users\marcelo\Google Drive\pessoal\puc\pi_pessoal\megatime\megatime\megatime\megatime\obj\Debug\megatime.pdb
+C:\Users\marcelo\Google Drive\pessoal\puc\pi_pessoal\megatime\megatime\megatime\megatime\bin\Debug\megatime.exe
+C:\Users\marcelo\Google Drive\pessoal\puc\pi_pessoal\megatime\megatime\megatime\megatime\bin\Debug\megatime.pdb
+C:\Users\marcelo\Google Drive\pessoal\puc\pi_pessoal\megatime\megatime\megatime\megatime\obj\Debug\megatime.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Google Drive\pessoal\puc\pi_pessoal\megatime\megatime\megatime\megatime\obj\Debug\megatime.Form1.resources
+C:\Users\marcelo\Google Drive\pessoal\puc\pi_pessoal\megatime\megatime\megatime\megatime\obj\Debug\megatime.Properties.Resources.resources
+C:\Users\marcelo\Google Drive\pessoal\puc\pi_pessoal\megatime\megatime\megatime\megatime\obj\Debug\megatime.csproj.GenerateResource.Cache
+C:\Users\marcelo\Google Drive\pessoal\puc\pi_pessoal\megatime\megatime\megatime\megatime\bin\Debug\API_OrgaoRegulador.dll
+C:\Users\marcelo\Desktop\megatime\megatime\bin\Debug\megatime.exe.config
+C:\Users\marcelo\Desktop\megatime\megatime\obj\Debug\megatime.exe
+C:\Users\marcelo\Desktop\megatime\megatime\obj\Debug\megatime.pdb
+C:\Users\marcelo\Desktop\megatime\megatime\bin\Debug\megatime.exe
+C:\Users\marcelo\Desktop\megatime\megatime\bin\Debug\megatime.pdb
+C:\Users\marcelo\Desktop\megatime\megatime\obj\Debug\megatime.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Desktop\megatime\megatime\obj\Debug\megatime.Form1.resources
+C:\Users\marcelo\Desktop\megatime\megatime\obj\Debug\megatime.Properties.Resources.resources
+C:\Users\marcelo\Desktop\megatime\megatime\obj\Debug\megatime.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\megatime\megatime\bin\Debug\API_OrgaoRegulador.dll
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\megatime\bin\Debug\megatime.exe.config
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\megatime\obj\Debug\megatime.exe
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\megatime\obj\Debug\megatime.pdb
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\megatime\bin\Debug\megatime.exe
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\megatime\bin\Debug\megatime.pdb
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\megatime\bin\Debug\API_OrgaoRegulador.dll
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\megatime\obj\Debug\megatime.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\megatime\obj\Debug\megatime.Form1.resources
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\megatime\obj\Debug\megatime.Properties.Resources.resources
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\megatime\obj\Debug\megatime.csproj.GenerateResource.Cache
+C:\Users\marcelo\Google Drive\pessoal\puc\pi\megatime\megatime\megatime\bin\Debug\MySql.Data.dll
